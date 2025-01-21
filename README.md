@@ -1,2 +1,2 @@
 # ReactPractices
-Some practices with React
+Some practices with React to start building my portfolio :)
