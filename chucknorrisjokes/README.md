@@ -1,6 +1,7 @@
 # Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was originally a task by an interviewer but I liked it so much that I replicated it. Originally, it was a Typescript/React task but here I uploaded it as a Javascript/React project. 
 
 ## Available Scripts
 
